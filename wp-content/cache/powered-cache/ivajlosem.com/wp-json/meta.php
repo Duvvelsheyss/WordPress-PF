@@ -1,0 +1,2 @@
+<?php exit; ?>
+a:1:{s:7:"headers";a:7:{s:12:"X-Powered-By";s:24:"X-Powered-By: PHP/7.0.33";s:13:"Cache-Control";s:23:"Cache-Control: no-cache";s:12:"Content-Type";s:45:"Content-Type: application/json; charset=UTF-8";s:12:"X-Robots-Tag";s:21:"X-Robots-Tag: noindex";s:4:"Link";s:64:"Link: <https://ivajlosem.com/wp-json/>; rel="https://api.w.org/"";s:22:"X-Content-Type-Options";s:31:"X-Content-Type-Options: nosniff";s:5:"Allow";s:10:"Allow: GET";}}

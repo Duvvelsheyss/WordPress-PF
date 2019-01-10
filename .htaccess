@@ -1,0 +1,252 @@
+# BEGIN POWERED CACHE
+<IfModule mod_mime.c>
+    AddType image/jpeg .jpg .jpeg .jpe
+    AddType image/gif .gif
+    AddType image/png .png
+    AddType image/bmp .bmp
+    AddType image/tiff .tiff .tif
+    AddType image/x-icon .ico
+    AddType video/x-ms-asf .asf .asx
+    AddType video/x-ms-wmv .wmv
+    AddType video/x-ms-wmx .wmx
+    AddType video/x-ms-wm .wm
+    AddType video/avi .avi
+    AddType video/divx .divx
+    AddType video/x-flv .flv
+    AddType video/quicktime .mov .qt
+    AddType video/mpeg .mpeg .mpg .mpe
+    AddType video/mp4 .mp4 .m4v
+    AddType video/ogg .ogv
+    AddType video/webm .webm
+    AddType video/x-matroska .mkv
+    AddType video/3gpp .3gp .3gpp
+    AddType video/3gpp2 .3g2 .3gp2
+    AddType text/plain .txt .asc .c .cc .h .srt
+    AddType text/csv .csv
+    AddType text/tab-separated-values .tsv
+    AddType text/calendar .ics
+    AddType text/richtext .rtx
+    AddType text/css .css
+    AddType text/html .htm .html
+    AddType text/vtt .vtt
+    AddType application/ttaf+xml .dfxp
+    AddType audio/mpeg .mp3 .m4a .m4b
+    AddType audio/aac .aac
+    AddType audio/x-realaudio .ra .ram
+    AddType audio/wav .wav
+    AddType audio/ogg .ogg .oga
+    AddType audio/flac .flac
+    AddType audio/midi .mid .midi
+    AddType audio/x-ms-wma .wma
+    AddType audio/x-ms-wax .wax
+    AddType audio/x-matroska .mka
+    AddType application/rtf .rtf
+    AddType application/javascript .js
+    AddType application/pdf .pdf
+    AddType application/x-shockwave-flash .swf
+    AddType application/java .class
+    AddType application/x-tar .tar
+    AddType application/zip .zip
+    AddType application/x-gzip .gz .gzip
+    AddType application/rar .rar
+    AddType application/x-7z-compressed .7z
+    AddType application/x-msdownload .exe
+    AddType application/octet-stream .xcf
+    AddType application/msword .doc
+    AddType application/vnd.ms-powerpoint .pot .pps .ppt
+    AddType application/vnd.ms-write .wri
+    AddType application/vnd.ms-excel .xla .xls .xlt .xlw
+    AddType application/vnd.ms-access .mdb
+    AddType application/vnd.ms-project .mpp
+    AddType application/vnd.openxmlformats-officedocument.wordprocessingml.document .docx
+    AddType application/vnd.ms-word.document.macroEnabled.12 .docm
+    AddType application/vnd.openxmlformats-officedocument.wordprocessingml.template .dotx
+    AddType application/vnd.ms-word.template.macroEnabled.12 .dotm
+    AddType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet .xlsx
+    AddType application/vnd.ms-excel.sheet.macroEnabled.12 .xlsm
+    AddType application/vnd.ms-excel.sheet.binary.macroEnabled.12 .xlsb
+    AddType application/vnd.openxmlformats-officedocument.spreadsheetml.template .xltx
+    AddType application/vnd.ms-excel.template.macroEnabled.12 .xltm
+    AddType application/vnd.ms-excel.addin.macroEnabled.12 .xlam
+    AddType application/vnd.openxmlformats-officedocument.presentationml.presentation .pptx
+    AddType application/vnd.ms-powerpoint.presentation.macroEnabled.12 .pptm
+    AddType application/vnd.openxmlformats-officedocument.presentationml.slideshow .ppsx
+    AddType application/vnd.ms-powerpoint.slideshow.macroEnabled.12 .ppsm
+    AddType application/vnd.openxmlformats-officedocument.presentationml.template .potx
+    AddType application/vnd.ms-powerpoint.template.macroEnabled.12 .potm
+    AddType application/vnd.ms-powerpoint.addin.macroEnabled.12 .ppam
+    AddType application/vnd.openxmlformats-officedocument.presentationml.slide .sldx
+    AddType application/vnd.ms-powerpoint.slide.macroEnabled.12 .sldm
+    AddType application/onenote .onetoc .onetoc2 .onetmp .onepkg
+    AddType application/oxps .oxps
+    AddType application/vnd.ms-xpsdocument .xps
+    AddType application/vnd.oasis.opendocument.text .odt
+    AddType application/vnd.oasis.opendocument.presentation .odp
+    AddType application/vnd.oasis.opendocument.spreadsheet .ods
+    AddType application/vnd.oasis.opendocument.graphics .odg
+    AddType application/vnd.oasis.opendocument.chart .odc
+    AddType application/vnd.oasis.opendocument.database .odb
+    AddType application/vnd.oasis.opendocument.formula .odf
+    AddType application/wordperfect .wp .wpd
+    AddType application/vnd.apple.keynote .key
+    AddType application/vnd.apple.numbers .numbers
+    AddType application/vnd.apple.pages .pages
+</IfModule>
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType  text/html            "access plus 0 seconds"
+    ExpiresByType  text/richtext        "access plus 0 seconds"
+    ExpiresByType  image/svg+xml        "access plus 0 seconds"
+    ExpiresByType  text/plain           "access plus 0 seconds"
+    ExpiresByType  text/xsd             "access plus 0 seconds"
+    ExpiresByType  text/xsl             "access plus 0 seconds"
+    ExpiresByType  text/xml             "access plus 0 seconds"
+    ExpiresByType  text/cache-manifest  "access plus 0 seconds"
+    ExpiresByType image/jpeg                 "access plus 1 month"
+    ExpiresByType image/gif                 "access plus 1 month"
+    ExpiresByType image/png                 "access plus 1 month"
+    ExpiresByType image/bmp                 "access plus 1 month"
+    ExpiresByType image/tiff                 "access plus 1 month"
+    ExpiresByType image/x-icon                 "access plus 1 month"
+    ExpiresByType video/x-ms-asf                 "access plus 1 month"
+    ExpiresByType video/x-ms-wmv                 "access plus 1 month"
+    ExpiresByType video/x-ms-wmx                 "access plus 1 month"
+    ExpiresByType video/x-ms-wm                 "access plus 1 month"
+    ExpiresByType video/avi                 "access plus 1 month"
+    ExpiresByType video/divx                 "access plus 1 month"
+    ExpiresByType video/x-flv                 "access plus 1 month"
+    ExpiresByType video/quicktime                 "access plus 1 month"
+    ExpiresByType video/mpeg                 "access plus 1 month"
+    ExpiresByType video/mp4                 "access plus 1 month"
+    ExpiresByType video/ogg                 "access plus 1 month"
+    ExpiresByType video/webm                 "access plus 1 month"
+    ExpiresByType video/x-matroska                 "access plus 1 month"
+    ExpiresByType video/3gpp                 "access plus 1 month"
+    ExpiresByType video/3gpp2                 "access plus 1 month"
+    ExpiresByType text/csv                 "access plus 1 month"
+    ExpiresByType text/tab-separated-values                 "access plus 1 month"
+    ExpiresByType text/calendar                 "access plus 1 month"
+    ExpiresByType text/css                 "access plus 1 year"
+    ExpiresByType text/vtt                 "access plus 1 month"
+    ExpiresByType application/ttaf+xml                 "access plus 1 month"
+    ExpiresByType audio/mpeg                 "access plus 1 month"
+    ExpiresByType audio/aac                 "access plus 1 month"
+    ExpiresByType audio/x-realaudio                 "access plus 1 month"
+    ExpiresByType audio/wav                 "access plus 1 month"
+    ExpiresByType audio/ogg                 "access plus 1 month"
+    ExpiresByType audio/flac                 "access plus 1 month"
+    ExpiresByType audio/midi                 "access plus 1 month"
+    ExpiresByType audio/x-ms-wma                 "access plus 1 month"
+    ExpiresByType audio/x-ms-wax                 "access plus 1 month"
+    ExpiresByType audio/x-matroska                 "access plus 1 month"
+    ExpiresByType application/rtf                 "access plus 1 month"
+    ExpiresByType application/javascript                 "access plus 1 year"
+    ExpiresByType application/pdf                 "access plus 1 month"
+    ExpiresByType application/x-shockwave-flash                 "access plus 1 month"
+    ExpiresByType application/java                 "access plus 1 month"
+    ExpiresByType application/x-tar                 "access plus 1 month"
+    ExpiresByType application/zip                 "access plus 1 month"
+    ExpiresByType application/x-gzip                 "access plus 1 month"
+    ExpiresByType application/rar                 "access plus 1 month"
+    ExpiresByType application/x-7z-compressed                 "access plus 1 month"
+    ExpiresByType application/x-msdownload                 "access plus 1 month"
+    ExpiresByType application/octet-stream                 "access plus 1 month"
+    ExpiresByType application/msword                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-powerpoint                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-write                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-excel                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-access                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-project                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.wordprocessingml.document                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-word.document.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.wordprocessingml.template                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-word.template.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-excel.sheet.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-excel.sheet.binary.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.spreadsheetml.template                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-excel.template.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-excel.addin.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.presentationml.presentation                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-powerpoint.presentation.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.presentationml.slideshow                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-powerpoint.slideshow.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.presentationml.template                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-powerpoint.template.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-powerpoint.addin.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/vnd.openxmlformats-officedocument.presentationml.slide                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-powerpoint.slide.macroEnabled.12                 "access plus 1 month"
+    ExpiresByType application/onenote                 "access plus 1 month"
+    ExpiresByType application/oxps                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-xpsdocument                 "access plus 1 month"
+    ExpiresByType application/vnd.oasis.opendocument.text                 "access plus 1 month"
+    ExpiresByType application/vnd.oasis.opendocument.presentation                 "access plus 1 month"
+    ExpiresByType application/vnd.oasis.opendocument.spreadsheet                 "access plus 1 month"
+    ExpiresByType application/vnd.oasis.opendocument.graphics                 "access plus 1 month"
+    ExpiresByType application/vnd.oasis.opendocument.chart                 "access plus 1 month"
+    ExpiresByType application/vnd.oasis.opendocument.database                 "access plus 1 month"
+    ExpiresByType application/vnd.oasis.opendocument.formula                 "access plus 1 month"
+    ExpiresByType application/wordperfect                 "access plus 1 month"
+    ExpiresByType application/vnd.apple.keynote                 "access plus 1 month"
+    ExpiresByType application/vnd.apple.numbers                 "access plus 1 month"
+    ExpiresByType application/vnd.apple.pages                 "access plus 1 month"
+</IfModule>
+<IfModule mod_deflate.c>
+  <IfModule mod_headers.c>
+    Header append Vary User-Agent env=!dont-vary
+  </IfModule>
+    AddOutputFilterByType DEFLATE text/css text/x-component application/x-javascript application/javascript text/javascript text/x-js text/html text/richtext image/svg+xml text/plain text/xsd text/xsl text/xml image/bmp application/java application/msword application/vnd.ms-fontobject application/x-msdownload image/x-icon application/json application/vnd.ms-access application/vnd.ms-project application/x-font-otf application/vnd.ms-opentype application/vnd.oasis.opendocument.database application/vnd.oasis.opendocument.chart application/vnd.oasis.opendocument.formula application/vnd.oasis.opendocument.graphics application/vnd.oasis.opendocument.presentation application/vnd.oasis.opendocument.spreadsheet application/vnd.oasis.opendocument.text audio/ogg application/pdf application/vnd.ms-powerpoint application/x-shockwave-flash image/tiff application/x-font-ttf application/vnd.ms-opentype audio/wav application/vnd.ms-write application/font-woff application/font-woff2 application/vnd.ms-excel
+  <IfModule mod_mime.c>
+    AddOutputFilter DEFLATE js css htm html xml
+  </IfModule>
+</IfModule>
+<IfModule mod_mime.c>
+    AddType text/html .html_gzip
+    AddEncoding gzip .html_gzip
+</IfModule>
+<IfModule mod_setenvif.c>
+    SetEnvIfNoCase Request_URI \.html_gzip$ no-gzip
+</IfModule>
+<IfModule mod_headers.c>
+Header unset ETag
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    AddDefaultCharset UTF-8 
+    RewriteCond %{HTTPS} =on
+    RewriteRule .* - [E=PC_SSL:-https]
+    RewriteCond %{SERVER_PORT} =443
+    RewriteRule .* - [E=PC_SSL:-https]
+    RewriteCond %{HTTP:Accept-Encoding} gzip
+    RewriteRule .* - [E=PC_ENC:_gzip]
+    RewriteCond %{REQUEST_METHOD} !=POST
+    RewriteCond %{QUERY_STRING} =""
+    RewriteCond %{REQUEST_URI} !^.*[^/]$
+    RewriteCond %{REQUEST_URI} !^.*//.*$
+    RewriteCond %{HTTP:Cookie} !(wordpressuser_|wordpresspass_|wordpress_sec_|wordpress_logged_in_) [NC]
+    RewriteCond %{HTTP_USER_AGENT} !^(facebookexternalhit).* [NC]
+    RewriteCond "%{DOCUMENT_ROOT}/wp-content/cache/powered-cache/%{HTTP_HOST}%{REQUEST_URI}/index%{ENV:PC_SSL}.html%{ENV:PC_ENC}" -f
+    RewriteRule .* "/wp-content/cache/powered-cache/%{HTTP_HOST}%{REQUEST_URI}/index%{ENV:PC_SSL}.html%{ENV:PC_ENC}" [L]
+</IfModule>
+# END POWERED CACHE
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php56” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddType application/x-httpd-ea-php56___lsphp .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

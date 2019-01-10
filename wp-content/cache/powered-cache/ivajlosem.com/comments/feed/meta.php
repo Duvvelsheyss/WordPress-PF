@@ -1,0 +1,2 @@
+<?php exit; ?>
+a:1:{s:7:"headers";a:6:{s:12:"X-Powered-By";s:24:"X-Powered-By: PHP/7.0.32";s:13:"Cache-Control";s:23:"Cache-Control: no-cache";s:13:"Last-Modified";s:44:"Last-Modified: Tue, 11 Dec 2018 08:04:47 GMT";s:4:"ETag";s:40:"ETag: "8aef0f4680510935602735cc7e4aa176"";s:4:"Link";s:64:"Link: <https://ivajlosem.com/wp-json/>; rel="https://api.w.org/"";s:12:"Content-Type";s:48:"Content-Type: application/rss+xml; charset=UTF-8";}}

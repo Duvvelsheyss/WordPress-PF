@@ -1,0 +1,2 @@
+<?php exit; ?>
+a:1:{s:7:"headers";a:7:{s:12:"X-Powered-By";s:24:"X-Powered-By: PHP/7.0.33";s:13:"Cache-Control";s:23:"Cache-Control: no-cache";s:13:"Last-Modified";s:44:"Last-Modified: Thu, 13 Dec 2018 16:07:36 GMT";s:4:"ETag";s:40:"ETag: "7f9169caed78103b50bae50c63fb9b23"";s:10:"X-Pingback";s:44:"X-Pingback: https://ivajlosem.com/xmlrpc.php";s:4:"Link";s:50:"Link: <https://ivajlosem.com/?p=23>; rel=shortlink";s:12:"Content-Type";s:48:"Content-Type: application/rss+xml; charset=UTF-8";}}

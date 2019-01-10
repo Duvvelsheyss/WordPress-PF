@@ -1,0 +1,2 @@
+<?php exit; ?>
+a:1:{s:7:"headers";a:5:{s:12:"X-Powered-By";s:24:"X-Powered-By: PHP/7.0.32";s:13:"Cache-Control";s:23:"Cache-Control: no-cache";s:12:"Content-Type";s:38:"Content-Type: text/html; charset=UTF-8";s:10:"X-Pingback";s:44:"X-Pingback: https://ivajlosem.com/xmlrpc.php";s:4:"Link";s:50:"Link: <https://ivajlosem.com/?p=21>; rel=shortlink";}}
